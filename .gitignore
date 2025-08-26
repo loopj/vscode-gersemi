@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Compiled output
+out/
+
+# VS Code extension package
+*.vsix
+
+# Logs
+*.log
+
+# TypeScript build info
+*.tsbuildinfo
+
+# MacOS system files
+.DS_Store
+
+# Test coverage
+coverage/
+
+# Env files
+.env
+
+# VS Code workspace settings
+.vscode/
